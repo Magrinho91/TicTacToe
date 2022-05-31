@@ -3,5 +3,11 @@
     <!--Main Activity-->
     <string name="textViewTitle">Tic Tac Toe Game</string>
     <string name="playBtn">Play Game</string>
-
+    <!--Player Setup-->
+    <string name="setUpNameTxt">Set up you names</string>
+    <string name="playerOneHint">I player name</string>
+    <string name="playerTwoHint">II player name</string>
+    <string name="firstPlayerName">Type your name</string>
+    <string name="seconPlayerName">Type your name</string>
+    <string name="startGameBtn">Play Game</string>
 </resources>
